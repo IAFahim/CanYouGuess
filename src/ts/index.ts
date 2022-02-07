@@ -17,7 +17,7 @@ class PickPercentage {
     }
 
     draw() {
-        this._ctx.fillRect(150, 150, 100, 1000)
+        this._ctx.fillRect(150, 150, 500, 100)
     }
 
     update() {
